@@ -3,6 +3,8 @@
  👩‍💻 I'm currently working on my skills as a **Data Analyst**.
 
 🛠 Developing projects where I can learn and practice SQL, Tableau, Power BI, Python...
+
+ 📫 How to reach me...
  
 <div> 
   <a href = "mailto:aninha.ps.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
