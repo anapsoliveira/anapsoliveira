@@ -9,7 +9,7 @@
 - Data Visualization
 - Data Interpretation and Storytelling
 
-Using Excel, SQL, Tableau, Power BI, Power Query, Qlik Sense, Python, numPy...
+Using Excel, SQL, Tableau, Power BI, Power Query, Qlik Sense, Python, NumPy, Pandas...
 
  ### 📫 How to reach me
  
