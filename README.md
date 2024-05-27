@@ -5,7 +5,7 @@
 🛠 Developing projects where I can learn and practice:
 - Data Collection and Extraction
 - Data Cleaning and Transformation
-- Data Analysis/Exploration
+- Data Exploration Analysis
 - Data Visualization
 - Data Interpretation and Storytelling
 
